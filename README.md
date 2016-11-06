@@ -3,13 +3,15 @@
 Prerequisites:
 Python
 Mongo DB
+Pip
+virtualenv
 
 
 To install mongo db refer https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-14-04
 
 
 Once installed mongo db, clone this repository and create a virtualenv using below command
-vritualvenv venv
+virtualenv venv
 source venv/bin/activate
 
 Navigate to cloned directory
